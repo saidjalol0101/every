@@ -1,0 +1,49 @@
+header{
+    background-color: black;
+    display: flex;
+height: 50px;
+align-items: center;
+justify-content: space-around;
+
+
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+header div{
+width: 400px;
+
+    display: flex;
+justify-content: space-around;    
+    margin-left: 900px;
+}
+
+h1{
+    font-family: Inter;
+font-weight: 500;
+font-size: 88px;
+line-height: 93px;
+letter-spacing: 0%;
+text-align: center;
+border: 1px solid #fff;
+width: 500px;
+margin-left: 420px;
+
+}
+main div{
+    width: 393px;
+height: 396px;
+text-align: center;
+
+
+}
+main{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 75px;
+
+}
+
+
